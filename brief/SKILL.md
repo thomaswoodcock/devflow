@@ -16,4 +16,4 @@ Rules:
 - Ask only blocking questions.
 - Do not scan the repository unless needed.
 - Return only the listed sections; no preamble or closing commentary.
-- If a workflow issue occurs while using this skill, append a concise note to `~/.devflow/feedback.md`.
+- Before finishing, if this skill caused workflow friction, produced an unsuitable output shape, or required correction, append a concise note to `~/.devflow/feedback.md`.

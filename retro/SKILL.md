@@ -28,4 +28,4 @@ Rules:
 - If `~/.devflow/feedback.md` is missing, treat it as an empty feedback log and return `No action` based on available evidence.
 - If `~/.devflow/feedback.md` is inaccessible, do not fail the workflow; append a concise workflow note when possible and return `No action` based on available evidence.
 - Return only the listed sections; no preamble or closing commentary.
-- If a workflow issue occurs while using this skill, append a concise note to `~/.devflow/feedback.md`.
+- Before finishing, if this skill caused workflow friction, produced an unsuitable output shape, or required correction, append a concise note to `~/.devflow/feedback.md`.

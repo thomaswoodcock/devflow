@@ -18,4 +18,4 @@ Rules:
 - Write readable, maintainable code: prefer clear names and simple structure; add comments only where intent or non-obvious reasoning is not clear from the code.
 - Be test-aware: add or update tests before or alongside implementation where practical.
 - Return only the listed sections; no preamble or closing commentary.
-- If a workflow issue occurs while using this skill, append a concise note to `~/.devflow/feedback.md`.
+- Before finishing, if this skill caused workflow friction, produced an unsuitable output shape, or required correction, append a concise note to `~/.devflow/feedback.md`.

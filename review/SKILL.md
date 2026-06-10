@@ -17,4 +17,4 @@ Rules:
 - Check whether the implementation satisfies the requirements brief.
 - Check whether the implementation follows the technical plan.
 - Return only the listed sections; no preamble or closing commentary.
-- If a workflow issue occurs while using this skill, append a concise note to `~/.devflow/feedback.md`.
+- Before finishing, if this skill caused workflow friction, produced an unsuitable output shape, or required correction, append a concise note to `~/.devflow/feedback.md`.
